@@ -1,0 +1,6 @@
+name: RegularRank
+version: '${version}'
+main: me.leonrobi.regularrank.RegularRank
+api-version: '1.20'
+depend: [LuckPerms]
+folia-supported: true
