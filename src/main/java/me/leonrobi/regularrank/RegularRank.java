@@ -115,7 +115,7 @@ public final class RegularRank extends JavaPlugin implements Listener {
 
             DataMutateResult result = user.data().add(GROUP_NODE);
 
-            if (!result.wasSuccessful()) {
+            if (!result.wasSuccessful() && result != DataMutateResult.FAIL_ALREADY_HAS) {
                 severe("Not successful");
             }
 
