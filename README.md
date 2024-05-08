@@ -15,9 +15,9 @@ This plugins allows people to get a singular rank, like regular after a certain 
  
 ## Default Config
 
-joins-for-regular: 3
+```joins-for-regular: 3
 
-regular-role-name-luckperms: regular
+regular-role-name-luckperms: regular```
 
 ### Folia inquisitors
 
