@@ -1,4 +1,4 @@
-# FakePlayer
+# RegularRank
 Website: None
 
 # Official Discord 
