@@ -12,6 +12,7 @@ https://discord.gg/aT9z7q7hX8
 ## Description
 
 This plugins allows people to get a singular rank, like regular after a certain amount of joins. The name, and the amount until they receive the rank are configurable.
+
  
 ## Default Config
 
@@ -20,6 +21,10 @@ joins-for-regular: 3
 
 regular-role-name-luckperms: regular
 ```
+
+## Soft Dependency
+> - [RegularRank](https://github.com/Folia-Inquisitors/RegularRank) *Purpose: Adds a rank "regular" so it can be exempted from Fakeplayer names.*
+> - [FakePlayer](https://github.com/Folia-Inquisitors/FakePlayer) *Purpose: If you use FakePlayers use fakeplayers.exempt on the rank called "regular". It will exempt regular players usernames from being generated for FakePlayers*
 
 ### Folia inquisitors
 
