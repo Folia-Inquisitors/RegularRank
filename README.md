@@ -24,7 +24,7 @@ regular-role-name-luckperms: regular
 
 ## Soft Dependency
 > - [RegularRank](https://github.com/Folia-Inquisitors/RegularRank) *Purpose: Adds a rank "regular" so it can be exempted from Fakeplayer names.*
-> - [FakePlayer](https://github.com/Folia-Inquisitors/FakePlayer) *Purpose: If you use FakePlayers use fakeplayers.exempt on the rank called "regular". It will exempt regular players usernames from being generated for FakePlayers*
+> - [FakePlayer](https://github.com/Folia-Inquisitors/FakePlayer) *Purpose: If you use FakePlayers use fakeplayers.exempt on the rank called "regular". It will exempt regular players usernames from being generated as FakePlayers*
 
 ### Folia inquisitors
 
